@@ -1,1 +1,1 @@
-# Hello everyone! New Change Here!
+# Hello everyone! Welcome to Git CLI!
